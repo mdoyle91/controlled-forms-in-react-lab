@@ -104,6 +104,7 @@ input {
   margin: 15px 10px;
   background-color: rgb(155, 155, 155);
   color: black;
+  border-radius: 12px;
 }
 
 @media (prefers-color-scheme: light) {
